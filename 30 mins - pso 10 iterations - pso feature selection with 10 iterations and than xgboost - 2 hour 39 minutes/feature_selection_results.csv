@@ -1,0 +1,11 @@
+Feature,Selection_Score
+Generator Capacity,1.0
+rolling_mean_1_24h,1.0
+energy_balance,1.0
+rolling_mean_3_24h,0.9
+month,0.1
+day_of_week,0.1
+rolling_mean_2_24h,0.1
+hour,0.0
+day,0.0
+is_peak_hour,0.0
